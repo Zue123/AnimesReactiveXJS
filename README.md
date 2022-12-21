@@ -8,8 +8,8 @@ Aplicação que busca animes de acordo com o gênero que o usuário escolhe, ent
 - Outras dependências - `npm install`
 
 
-![](../data/AnimesRxJS.png)
+![](./data/AnimesRxJS.png)
 
-# Aluno: 
+## Aluno: 
 - Josué Leite
 
